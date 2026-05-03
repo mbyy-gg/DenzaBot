@@ -152,7 +152,7 @@ function sendToGroupsUtama(text, options = {}) {
         });
     }
 }
-const OWNER_ID = 8007935748;
+const OWNER_ID = 8007935748,5676072619;
   
 wss.on('connection', function (ws, req) {
   let username;
